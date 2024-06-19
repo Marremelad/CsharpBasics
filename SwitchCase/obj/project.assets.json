@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\SwitchCase\\SwitchCase.csproj",
+      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\SwitchCase\\SwitchCase.csproj",
       "projectName": "SwitchCase",
-      "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\SwitchCase\\SwitchCase.csproj",
+      "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\SwitchCase\\SwitchCase.csproj",
       "packagesPath": "C:\\Users\\Corte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\SwitchCase\\obj\\",
+      "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\SwitchCase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Corte\\AppData\\Roaming\\NuGet\\NuGet.Config"

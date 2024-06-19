@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\BranchingLooping\\GuidedProject\\Starter\\Starter.csproj": {}
+    "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Starter\\Starter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\BranchingLooping\\GuidedProject\\Starter\\Starter.csproj": {
+    "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\BranchingLooping\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\BranchingLooping\\GuidedProject\\Starter\\Starter.csproj",
+        "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\Corte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\BranchingLooping\\GuidedProject\\Starter\\obj\\",
+        "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corte\\AppData\\Roaming\\NuGet\\NuGet.Config"

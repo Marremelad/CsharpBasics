@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\ForLoops\\ForLoops.csproj": {}
+    "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\ForLoops\\ForLoops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\ForLoops\\ForLoops.csproj": {
+    "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\ForLoops\\ForLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\ForLoops\\ForLoops.csproj",
+        "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\ForLoops\\ForLoops.csproj",
         "projectName": "ForLoops",
-        "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\ForLoops\\ForLoops.csproj",
+        "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\ForLoops\\ForLoops.csproj",
         "packagesPath": "C:\\Users\\Corte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\ForLoops\\obj\\",
+        "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\ForLoops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corte\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\CodeBlocks\\CodeBlocks.csproj",
+      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\CodeBlocks\\CodeBlocks.csproj",
       "projectName": "CodeBlocks",
-      "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\CodeBlocks\\CodeBlocks.csproj",
+      "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\CodeBlocks\\CodeBlocks.csproj",
       "packagesPath": "C:\\Users\\Corte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\C-Sharp\\CSharp-Basics\\CodeBlocks\\obj\\",
+      "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\CodeBlocks\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Corte\\AppData\\Roaming\\NuGet\\NuGet.Config"
