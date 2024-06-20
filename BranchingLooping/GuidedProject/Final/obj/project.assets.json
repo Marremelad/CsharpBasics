@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Final\\Final.csproj",
+      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Final\\Final.csproj",
       "projectName": "Final",
-      "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Final\\Final.csproj",
+      "projectPath": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Final\\Final.csproj",
       "packagesPath": "C:\\Users\\Corte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Final\\obj\\",
+      "outputPath": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\BranchingLooping\\GuidedProject\\Final\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Corte\\AppData\\Roaming\\NuGet\\NuGet.Config"

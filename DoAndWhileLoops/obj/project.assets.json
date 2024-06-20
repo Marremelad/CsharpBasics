@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\DoAndWhileLoops\\DoAndWhileLoops.csproj",
+      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\DoAndWhileLoops\\DoAndWhileLoops.csproj",
       "projectName": "DoAndWhileLoops",
-      "projectPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\DoAndWhileLoops\\DoAndWhileLoops.csproj",
+      "projectPath": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\DoAndWhileLoops\\DoAndWhileLoops.csproj",
       "packagesPath": "C:\\Users\\Corte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corte\\Developer\\Studying\\Csharp\\CsharpBasics\\DoAndWhileLoops\\obj\\",
+      "outputPath": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\DoAndWhileLoops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Corte\\AppData\\Roaming\\NuGet\\NuGet.Config"

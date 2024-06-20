@@ -260,7 +260,6 @@ do
                 }
             }
             
-            
             for (int i = 0; i < maxPets; i++) {
                 if (ourAnimals[i, 0] != "ID #: ") {
                     if (ourAnimals[i, 2] == "Age: ?" || ourAnimals[i, 4] == "Physical description: " || ourAnimals[i, 4] == "Physical description: tbd") {
