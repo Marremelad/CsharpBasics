@@ -1,3 +1,5 @@
+using System.Runtime.CompilerServices;
+
 string animalSpecies = "";
 string animalID = "";
 string animalAge = "";
@@ -244,8 +246,59 @@ do
 
         case "3":
         // Ensure animal ages and physical descriptions are complete
-            Console.WriteLine("Placeholder");
-            Console.WriteLine("Press the Enter key to continue");
+            bool isComplete = false;
+            for (int i = 0; i < maxPets; i++) {
+                if (ourAnimals[i, 2] != "Age: ?" || ourAnimals[i, 4] != "Physical description: " || ourAnimals[i, 4] != "Physical description: tbd") {
+                    isComplete = true;
+                }
+                
+                if (isComplete) {
+                    Console.WriteLine("Entries for age and physical description are completed");
+                }
+                else {
+                    
+                }
+            }
+            
+            
+            for (int i = 0; i < maxPets; i++) {
+                if (ourAnimals[i, 0] != "ID #: ") {
+                    if (ourAnimals[i, 2] == "Age: ?" || ourAnimals[i, 4] == "Physical description: " || ourAnimals[i, 4] == "Physical description: tbd") {
+                        if (ourAnimals[i, 2] == "Age: ?") {
+                            bool isInteger = true;
+                            int petAge;
+                            do {                               
+                                Console.WriteLine($"{ourAnimals[i, 0]} is missing age. Please input");
+                                readResult = Console.ReadLine();                               
+                                if (readResult != null) {                                  
+                                    isInteger = int.TryParse(readResult, out petAge);                                  
+                                    if (isInteger) {                                       
+                                        ourAnimals[i, 2] = "Age: " + petAge;
+                                    }                                 
+                                    else {                                
+                                        Console.WriteLine("Not a number");
+                                    }                                   
+                                }
+                            } while (isInteger == false);                           
+                        }                       
+                        if (ourAnimals[i, 4] == "Physical description: " || ourAnimals[i, 4] == "Physical description: tbd") {
+                            bool isString = false;
+                            Console.WriteLine($"{ourAnimals[i, 0]} is Missing physical description. Please input");
+                            do {                             
+                                readResult = Console.ReadLine();
+                                isString = String.IsNullOrEmpty(readResult);
+                                if (isString) {
+                                    Console.WriteLine("Please enter a physical description");
+                                }
+                                else {
+                                    ourAnimals[i, 4] = "Physical description: " + readResult;
+                                }
+                            } while (isString == true);
+                            
+                        }
+                    }
+                }
+            }
             break;
 
         case "4":
