@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\BooleanExpressions.csproj": {}
+    "C:\\Users\\Corte\\Programming\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\BooleanExpressions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\BooleanExpressions.csproj": {
+    "C:\\Users\\Corte\\Programming\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\BooleanExpressions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\BooleanExpressions.csproj",
+        "projectUniqueName": "C:\\Users\\Corte\\Programming\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\BooleanExpressions.csproj",
         "projectName": "BooleanExpressions",
-        "projectPath": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\BooleanExpressions.csproj",
+        "projectPath": "C:\\Users\\Corte\\Programming\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\BooleanExpressions.csproj",
         "packagesPath": "C:\\Users\\Corte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\obj\\",
+        "outputPath": "C:\\Users\\Corte\\Programming\\Developer\\Learn\\Csharp\\CsharpBasics\\BooleanExpressions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Corte\\AppData\\Roaming\\NuGet\\NuGet.Config"

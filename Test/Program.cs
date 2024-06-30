@@ -1,8 +1,7 @@
-﻿string word = "!";
+﻿int[] array = new int[1];
+array[0] = 1;
+int[] bar = array;
+bar[0] = 2;
 
-if (String.IsNullOrEmpty(word)) {
-    Console.WriteLine("true");
-}
-else {
-    Console.WriteLine("false");
-}
+Console.WriteLine(array[0]);
+Console.WriteLine(bar[0]);

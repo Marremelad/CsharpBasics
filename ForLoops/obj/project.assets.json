@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\ForLoops\\ForLoops.csproj",
+      "projectUniqueName": "C:\\Users\\Corte\\Programming\\Developer\\Learn\\Csharp\\CsharpBasics\\ForLoops\\ForLoops.csproj",
       "projectName": "ForLoops",
-      "projectPath": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\ForLoops\\ForLoops.csproj",
+      "projectPath": "C:\\Users\\Corte\\Programming\\Developer\\Learn\\Csharp\\CsharpBasics\\ForLoops\\ForLoops.csproj",
       "packagesPath": "C:\\Users\\Corte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corte\\Developer\\Learn\\Csharp\\CsharpBasics\\ForLoops\\obj\\",
+      "outputPath": "C:\\Users\\Corte\\Programming\\Developer\\Learn\\Csharp\\CsharpBasics\\ForLoops\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Corte\\AppData\\Roaming\\NuGet\\NuGet.Config"
