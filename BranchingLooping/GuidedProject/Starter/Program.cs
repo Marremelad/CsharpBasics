@@ -343,3 +343,5 @@ do
     // pause code execution
     readResult = Console.ReadLine();
 } while (menuSelection != "exit");
+
+// Pet app exercise
