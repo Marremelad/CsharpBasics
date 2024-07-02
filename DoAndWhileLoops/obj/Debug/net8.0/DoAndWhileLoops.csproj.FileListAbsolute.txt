@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\DoAndWhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\DoAndWhileLoops.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\DoAndWhileLoops.AssemblyInfo.cs
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\DoAndWhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\DoAndWhileLoops.sourcelink.json
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\bin\Debug\net8.0\DoAndWhileLoops.exe
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\bin\Debug\net8.0\DoAndWhileLoops.deps.json
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\bin\Debug\net8.0\DoAndWhileLoops.runtimeconfig.json
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\bin\Debug\net8.0\DoAndWhileLoops.dll
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\bin\Debug\net8.0\DoAndWhileLoops.pdb
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\DoAndWhileLoops.dll
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\refint\DoAndWhileLoops.dll
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\DoAndWhileLoops.pdb
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\DoAndWhileLoops.genruntimeconfig.cache
+C:\Users\Mauricio\Desktop\C#\Projects\DoAndWhileLoops\obj\Debug\net8.0\ref\DoAndWhileLoops.dll
